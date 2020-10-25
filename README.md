@@ -38,3 +38,7 @@ or
 ```
 
 ### Some Screenshots
+
+![Alt text](/screenshots/DashboardScreenshot.PNG?raw=true)
+
+![Alt text](/screenshots/DashboardScreenshot2.PNG?raw=true)
