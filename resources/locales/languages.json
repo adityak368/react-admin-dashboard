@@ -1,0 +1,157 @@
+{
+	"en-US": {
+		"name": "English-US",
+		"nativeName": "English-US",
+		"countryCode": "US"
+	},
+	"en-UK": {
+		"name": "English-UK",
+		"nativeName": "English-UK",
+		"countryCode": "GB"
+	},
+	"de": {
+		"name": "German",
+		"nativeName": "Deutsch",
+		"countryCode": "DE"
+	},
+	"ar": {
+		"name": "Arabic",
+		"nativeName": "العربية",
+		"countryCode": "AE"
+	},
+	"bg": {
+		"name": "Bulgarian",
+		"nativeName": "български език",
+		"countryCode": "BG"
+	},
+	"zh": {
+		"name": "Chinese",
+		"nativeName": "中文 (Zhōngwén)",
+		"countryCode": "CN"
+	},
+	"hr": {
+		"name": "Croatian",
+		"nativeName": "hrvatski",
+		"countryCode": "HR"
+	},
+	"cs": {
+		"name": "Czech",
+		"nativeName": "česky",
+		"countryCode": "CZ"
+	},
+	"da": {
+		"name": "Danish",
+		"nativeName": "dansk",
+		"countryCode": "DK"
+	},
+	"fi": {
+		"name": "Finnish",
+		"nativeName": "suomi",
+		"countryCode": "FI"
+	},
+	"fr": {
+		"name": "French",
+		"nativeName": "français",
+		"countryCode": "FR"
+	},
+	"ka": {
+		"name": "Georgian",
+		"nativeName": "ქართული",
+		"countryCode": "GE"
+	},
+	"el": {
+		"name": "Greek",
+		"nativeName": "Ελληνικά",
+		"countryCode": "GR"
+	},
+	"hi": {
+		"name": "Hindi",
+		"nativeName": "हिन्दी",
+		"countryCode": "IN"
+	},
+	"hu": {
+		"name": "Hungarian",
+		"nativeName": "Magyar",
+		"countryCode": "HU"
+	},
+	"id": {
+		"name": "Indonesian",
+		"nativeName": "Bahasa Indonesia",
+		"countryCode": "ID"
+	},
+	"is": {
+		"name": "Icelandic",
+		"nativeName": "Íslenska",
+		"countryCode": "IS"
+	},
+	"it": {
+		"name": "Italian",
+		"nativeName": "Italiano",
+		"countryCode": "IT"
+	},
+	"ja": {
+		"name": "Japanese",
+		"nativeName": "日本語 (にほんご／にっぽんご)",
+		"countryCode": "JP"
+	},
+	"ko": {
+		"name": "Korean",
+		"nativeName": "한국어 (韓國語)",
+		"countryCode": "KR"
+	},
+	"lt": {
+		"name": "Lithuanian",
+		"nativeName": "lietuvių kalba",
+		"countryCode": "LT"
+	},
+	"lv": {
+		"name": "Latvian",
+		"nativeName": "latviešu valoda",
+		"countryCode": "LV"
+	},
+	"no": {
+		"name": "Norwegian",
+		"nativeName": "Norsk",
+		"countryCode": "NO"
+	},
+	"pl": {
+		"name": "Polish",
+		"nativeName": "polski",
+		"countryCode": "PL"
+	},
+	"pt": {
+		"name": "Portuguese",
+		"nativeName": "Português",
+		"countryCode": "PT"
+	},
+	"ro": {
+		"name": "Romanian, Moldavian, Moldovan",
+		"nativeName": "română",
+		"countryCode": "RO"
+	},
+	"ru": {
+		"name": "Russian",
+		"nativeName": "русский язык",
+		"countryCode": "RU"
+	},
+	"sk": {
+		"name": "Slovak",
+		"nativeName": "slovenčina",
+		"countryCode": "SK"
+	},
+	"es": {
+		"name": "Spanish; Castilian",
+		"nativeName": "español",
+		"countryCode": "ES"
+	},
+	"sv": {
+		"name": "Swedish",
+		"nativeName": "svenska",
+		"countryCode": "SE"
+	},
+	"tr": {
+		"name": "Turkish",
+		"nativeName": "Türkçe",
+		"countryCode": "TR"
+	}
+}

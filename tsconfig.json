@@ -1,0 +1,40 @@
+{
+	"compilerOptions": {
+		"outDir": "dist",
+		"noEmit": true,
+		//"strict": true,
+		"sourceMap": true,
+		"noImplicitAny": false,
+		"target": "es6",
+		"lib": ["es2015", "es2017", "dom"],
+		"typeRoots": ["node_modules/@types", "app/@types"],
+		"module": "ESNext",
+		"moduleResolution": "node",
+		"removeComments": true,
+		"allowSyntheticDefaultImports": true,
+		"esModuleInterop": true,
+		"skipLibCheck": true,
+		"jsx": "react",
+		"allowJs": true,
+		"resolveJsonModule": true,
+		"baseUrl": ".",
+		"paths": {
+			"res/*": ["resources/*"],
+			"framework/*": ["app/framework/*"],
+			"common/*": ["app/common/*"],
+			"routing/*": ["app/routing/*"],
+			"layouts/*": ["app/layouts/*"],
+			"modules/*": ["app/modules/*"]
+		},
+		"pretty": true
+	},
+	"include": [
+		"app/entries/**/*",
+		"app/framework/**/*",
+		"app/layouts/**/*",
+		"app/modules/**/*",
+		"app/routing/**/*",
+		"app/*.ts"
+	],
+	"exclude": ["node_modules"]
+}

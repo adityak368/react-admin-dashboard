@@ -1,0 +1,15 @@
+{
+	"javascript.validate.enable": true,
+	"javascript.format.enable": true,
+	"typescript.validate.enable": true,
+	"typescript.format.enable": true,
+
+	"typescript.tsdk": "node_modules\\typescript\\lib",
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true,
+		"source.organizeImports": true
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
+}
